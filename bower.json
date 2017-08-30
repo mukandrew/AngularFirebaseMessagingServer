@@ -1,0 +1,32 @@
+{
+  "name": "pushnotification",
+  "authors": [
+    "Murillo Andrew Fernandes <murillo.fernandes@ironsystems.com.br>"
+  ],
+  "description": "App para teste de PushNotification",
+  "main": "index.html",
+  "keywords": [
+    "IronSystems",
+    "MurilloAndrew",
+    "PushNotification",
+    "Apps"
+  ],
+  "license": "MIT",
+  "homepage": "www.ironsystems.com.br/pushnotifications",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.5",
+    "ngToast": "ngtoast#^2.0.0",
+    "ngstorage": "^0.3.11",
+    "restangular": "^1.6.1",
+    "angular-loading-bar": "^0.9.0",
+    "bootstrap": "^3.3.7",
+    "angular-bootstrap": "^2.5.0"
+  }
+}
